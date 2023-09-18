@@ -1,0 +1,9 @@
+module:com.example.accountingofgoods
+com.example.accountingofgoods
+com.example.accountingofgoods.da.entity
+com.example.accountingofgoods.dao
+com.example.accountingofgoods.dao.tables
+com.example.accountingofgoods.db
+com.example.accountingofgoods.db.functional
+com.example.accountingofgoods.emums
+com.example.accountingofgoods.ui
